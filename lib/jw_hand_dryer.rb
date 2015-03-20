@@ -3,7 +3,7 @@ require "jw_hand_dryer/version"
 module JwHandDryer
   class Dryer
     def dry
-      `say ooooooooooooooooooooooooooo ooooooooooooooooooooo`
+      `say ooooooooooooooooooooooooooooooooooooooooooooooooooooo ooooooooooooooooooooo`
     end
   end
 end
